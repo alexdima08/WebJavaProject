@@ -8,7 +8,8 @@
 > locationId, country, city
 ##  I created a Ticket and Schedule entity in order to manage all the clients that want to participate at an event on a location. 
 
-## ***This aplication will have the following main bussiness requirements: ***
+## 
+***This aplication will have the following main bussiness requirements: ***
 
 ### 1) To be able to add Clients
 
