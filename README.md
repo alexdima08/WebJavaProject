@@ -4,8 +4,8 @@
 >clientId, nume, prenume, cash.
 ## He is able to buy a ticket to an existing Event, determined by
 > eventId, eventName, eventStart, eventPrice. 
-## Each event has a description and a location where it is going to take place:.
-> locationId, country, city
+## Each event has a description and a location where it is going to take place:
+> locationId, country, city.
 ##  I created a Ticket and Schedule entity in order to manage all the clients that want to participate at an event on a location. 
 
 ## ***This aplication will have the following main bussiness requirements:***
